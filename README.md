@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+name：郭南春
+mail：beiqiu241@gmail.com
 <!--
 **BeiQiu241/BeiQiu241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
